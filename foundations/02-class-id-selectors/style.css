@@ -2,3 +2,19 @@
     background-color: rgb(241, 101, 101);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#second{
+    color: rgb(25, 37, 202);
+    font-size: 36px;
+}
+
+.third{
+    font-size: 24px;
+
+}
+
+#fourth{
+    background-color: #52d631;
+    font-size: 24px;
+    font-weight: bold;
+}
