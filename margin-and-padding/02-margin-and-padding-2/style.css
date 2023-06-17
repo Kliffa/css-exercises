@@ -21,18 +21,19 @@ body {
 .content {
   background: #e3f4ff;
   Padding: 16px 8px;
-  margin: 8px 0;
+  margin: 8px 0px;
 }
 
 .button-container {
   background: #e3f4ff;
-  margin: 0 auto;
-  display: flex;
+  text-align: center;
+  padding: 8px;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
   display:block;
-
+  margin: 0 auto;
+  padding: 8px 24px;
 }
